@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/capa.png" width="900">
+  <img src="DASHBOARD1.png" width="900">
 </p>
 
 # 📊 Power BI – Relatório de Vendas (Moda)
@@ -25,12 +25,5 @@ O objetivo do relatório é oferecer uma análise clara e visual sobre o desempe
 - Modelagem e tratamento de dados  
 
 ## 📂 Estrutura do Repositório
-- `/imagens` → prints e capa do projeto  
+- `DASHBOARD1.png` → capa do projeto  
 - `Relatorio_Vendas.pbix` → arquivo do dashboard  
-
-## 🖼️ Prévia do Dashboard
-*(suba seus prints na pasta /imagens e edite abaixo)*  
-```md
-![Visão Geral](imagens/print1.png)
-![Produtos](imagens/print2.png)
-![Marcas](imagens/print3.png)
